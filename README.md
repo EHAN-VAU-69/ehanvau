@@ -1,7 +1,7 @@
 # ehanvau
 MY QUEEN MIM 🖤✨
 
-pkg update pkg update
+pkg update 
 
 pkg upgrade
 
